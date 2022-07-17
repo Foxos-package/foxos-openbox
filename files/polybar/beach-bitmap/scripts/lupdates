@@ -1,0 +1,6 @@
+#!/bin/bash
+
+## Copyright (C) 2022 SquidRings <squidrings4@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+alacritty -e "sudo pacman -Syyu"

@@ -1,0 +1,2 @@
+# foxos-openbox
+ // Configuration : Openbox
